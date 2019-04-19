@@ -2,7 +2,7 @@
 
 HOST="localhost"
 USER="root"
-DATABASE="round20"
+DATABASE=""
 CHARSET="utf8mb4"
 COLLATION="utf8mb4_unicode_ci"
 
